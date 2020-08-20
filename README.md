@@ -1,2 +1,4 @@
-# Roam---custom-context-menu-in-BTT-macOS
-Custom context menu for Roamresearch.com made in BetterTouchTool for MacOS
+# Roam - custom context menu made in BetterTouchTool for macOS
+
+Please, consider the support: https://www.paypal.me/catominor3 
+It would really help. :) 
