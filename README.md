@@ -20,9 +20,17 @@ E.g., you can map it to a specific gesture on your trackpad or to a specific but
 
 By default, the custom context menu is mapped to **Corner Click Bottom Left**. But feel free to map it to anything you want :). 
 
+### Important
+
+For highligting in the color, it is necessary to install custom **[Roam-colored_fonts.css](https://gist.github.com/ciceronianus/97d493cdc8d770e37ee0d085fc36ed3d)** into roam/css.
+
+### Customization
+
+Description in progress.
+
 ### Functions
 
-Description in the progress.
+Description in progress.
 
  
 
